@@ -247,11 +247,3 @@ pthread_cond_destroy (&conque);
 pthread_mutex_destroy (&track);
 pthread_mutex_destroy (&que);
 }
-
-
-
-
-
-
-
-
