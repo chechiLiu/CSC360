@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include <sys/types.h>
 
+//This program is a simple shell interpreter (SSI).
 
 typedef struct bg_pro{ 
     pid_t pid; 
