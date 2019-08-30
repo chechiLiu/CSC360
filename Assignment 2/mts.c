@@ -4,6 +4,8 @@
 #include <pthread.h>
 #include <time.h>
 
+//This program is a simulator of an automated control system for the railway track shown in PDF. To emulate the scheduling of multiple threads sharing a common resource in a real operating system.
+
 typedef struct train{
 	int id;
 	char dir;
